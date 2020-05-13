@@ -468,8 +468,8 @@ e e d e e f e e e e e e e d e e
 `
     //% blockIdentity=images._tile
     export const tile24 = img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . f f f f f 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+e e e e e e e e e e e f f f f f 
 f f f f f f f f f f f f f f f f 
 e f e e e e e e f e e f f f f f 
 e f e e e e e e f e e f f f f f 
